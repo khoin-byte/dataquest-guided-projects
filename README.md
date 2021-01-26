@@ -1,6 +1,7 @@
 ---
 <center><h1> 📍 📍 Dataquest Guided Projects 📍 📍 </h1></center>
 ---
+
 This repository is a collection of my projects from Dataquest.io's platform. 
 Goal is to familiarize myself with Data Science techniques:
 * Data preprocessing.
