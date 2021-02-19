@@ -14,3 +14,4 @@ Projects below depict my learnings and for those who are interested.
 Projects are well commented with storyline/comments and my understanding of each project.
 
 ## Project #1: Clean And Analyze Employee Exit Surveys
+## Project #2: Analyzing_NYC_High_School_Data
