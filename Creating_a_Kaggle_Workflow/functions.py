@@ -6,7 +6,8 @@ def process_missing(df):
 
     holdout = process_missing(holdout)
     """
-    df["Fare"] = df["Fare"].fillna(train["Fare"].mean())
+    # import pdb; pdb.set_trace()
+    df["Fare"] = df["Fare"].fillna(df["Fare"].mean())
     df["Embarked"] = df["Embarked"].fillna("S")
     return df
 
