@@ -1,3 +1,5 @@
+import pandas as pd
+
 def process_missing(df):
     """Handle various missing values from the data set
 
