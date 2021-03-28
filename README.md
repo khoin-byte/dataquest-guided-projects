@@ -16,3 +16,5 @@ Projects are well commented with storyline/comments and my understanding of each
 ## Project #1: Clean And Analyze Employee Exit Surveys
 ## Project #2: Analyzing NYC High School Data
 ## Project #3: Creating a Kaggle Workflow
+## Project #4: Predicting Bike Rentals
+## Project #5: Predicting House Sale Prices
